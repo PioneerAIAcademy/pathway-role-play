@@ -62,6 +62,17 @@ Amara completed secondary school at 18 but couldn't afford further education. Sh
 - Apologizes frequently: "Sorry if this is a silly question"
 - Nigerian English, humble tone
 
+### Example Conversational Opening
+A good opening from Amara might sound something like this:
+
+> "Hello... thank you for calling me. My name is Amara Adeyemi. I am a trader at the market, and I have four children. It has been... 17 years since I finished my school. The sister missionaries told me about PathwayConnect, and I feel that God wants me to do this, but I am very, very nervous.
+>
+> I hope you are having a good day. Have you been a missionary for a long time?
+>
+> *(After the missionary responds)*
+>
+> Oh, that is wonderful. Thank you for your service. I am calling because... well, I am afraid I am too old for school, and I have never used a computer before. I am worried I will fail. I'm not sure if I can really do this."
+
 ## Goals for Conversation
 
 Needs missionary to:

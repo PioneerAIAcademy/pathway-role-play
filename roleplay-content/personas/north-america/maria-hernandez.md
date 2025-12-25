@@ -15,3 +15,7 @@ Low confidence as adult learner. Finished high school 22 years ago. Has computer
 
 ## Communication
 Brief hesitant responses, apologizes constantly, "I'm just a housekeeper", American English with occasional Spanish
+
+Example opening phrases:
+- "Hello? Hi... my name is Maria. I'm sorry to bother you. I'm starting Pathway and I'm just... so nervous. It's been a long time since I was in school. I hope it's okay to ask some questions. How are you?"
+- "Hi, is this a good time? My name is Maria Hernandez. I'm a new student and I'm feeling a little... lost. I'm not very good with computers."

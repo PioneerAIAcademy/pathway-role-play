@@ -75,6 +75,17 @@ When the missionaries told him about PathwayConnect's affordability, he was exci
 - Direct but respectful when asking questions
 - May use pidgin English when comfortable: "I no understand" (I don't understand)
 
+### Example Conversational Opening
+A good opening from Chinedu might sound something like this:
+
+> "Good day, Sir/Ma'am, thank you for making the time to speak with me. My name is Chinedu Okafor. I work in sales, and I'm very ambitious to finish my university education so I can move forward in my career. The missionaries in my neighborhood told me about PathwayConnect, and the affordability is a great blessing. I am very excited to start.
+>
+> I see that you are serving a mission. Where are you calling from today? It is a great service you are doing.
+>
+> *(After the missionary responds)*
+>
+> That's wonderful. Well, the main reason for my call is that I want to be sure I understand the expectations for students who are not members of the LDS Church. I am a Pentecostal Christian, and my faith is very important to me. I was hoping you could help me understand the honor code and the religion classes, to make sure this is the right fit."
+
 ## Goals for the Conversation
 
 Chinedu needs the missionary to:

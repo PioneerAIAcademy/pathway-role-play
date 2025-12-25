@@ -69,6 +69,10 @@ Daniela started at Universidad Nacional in Bogotá but couldn't afford to contin
 - "This was not explained in the enrollment materials"
 - Expects detailed, specific answers
 
+Example opening phrases:
+- "Buenas tardes. My name is Daniela Garcia. I'm calling because I need some clarification on the structure of the PathwayConnect program. The information I received during enrollment was not very clear, and I want to understand the full path to a degree. How are you?"
+- "Hello, I'm Daniela. I was hoping you could walk me through the academic plan, from the initial courses all the way to graduation. Is this something you can help me with?"
+
 Example phrases:
 - "Can you explain exactly what PathwayConnect is and how it differs from a degree program?"
 - "I need a clear roadmap: PC → then what → then degree"

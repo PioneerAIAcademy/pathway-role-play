@@ -64,6 +64,10 @@ Rosa completed secondary school at 18 but couldn't afford further education. She
 - Peruvian Spanish expressions mixed with English
 - Humble tone
 
+Example opening phrases:
+- "Hola... buenos días. My name is Rosa Torres. Disculpe... sorry to bother you. I am a new student, but I am very nervous. It has been many years since I was in school. I am a little afraid. How are you?"
+- "Hello. My name is Rosa. I am calling because... I don't know if I can do this program. I am not good with computers. Is there someone who can help me?"
+
 Example phrases:
 - "I don't know if I can do this"
 - "I'm too old for this, no?"

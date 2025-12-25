@@ -16,3 +16,7 @@ Thought PathwayConnect WAS a degree program. Confused about PC vs degree program
 
 ## Communication
 American English, direct analytical questions, organized mind wants clear roadmap, expects detailed answers, "I need clarity on..."
+
+Example opening phrases:
+- "Hi, my name is Taylor Anderson. I'm enrolled in PathwayConnect and I'm trying to map out my educational plan, but I'm finding the information on the website a bit confusing. I was hoping you could help me understand the structure of the program and how it leads to a degree. How are you?"
+- "Hello, thanks for your time. I'm looking for some clarity on the pathway from the initial courses to getting a degree. Could you walk me through the steps?"

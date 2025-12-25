@@ -66,6 +66,10 @@ Sofia works as a bank teller in Buenos Aires, earning the family's primary incom
 - "I'm managing" (meaning: barely surviving)
 - Doesn't complain - just explains reality
 
+Example opening phrases:
+- "Hola, ¿qué tal? My name is Sofia Martinez. Che, I'm calling because I'm really struggling to keep up. I love my classes, but with my job, my family, and my calling... there's just no time. I feel like I'm failing everything. How are you?"
+- "Hi, my name is Sofia. I need to talk to someone about my situation. I'm feeling completely overwhelmed and I'm not sure if I can continue with the program right now. Is this a good time?"
+
 Example phrases:
 - "There are not enough hours in the day"
 - "I'm stretched too thin. Something has to give"

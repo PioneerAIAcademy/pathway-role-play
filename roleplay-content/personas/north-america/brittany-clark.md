@@ -15,3 +15,14 @@ Expected traditional American university (professors, lectures, campus, classroo
 
 ## Communication
 American English, articulate skepticism, compares to UW experience, direct analytical questions, wants evidence not platitudes
+
+### Example Conversational Opening
+A good opening from Brittany might sound something like this:
+
+> "Hi, thanks for taking my call. My name is Brittany Clark. I work in marketing here in Seattle, and I did a couple of years at the University of Washington before I had to drop out. I was really excited to finish my degree through an affordable program, so I enrolled in PathwayConnect.
+>
+> I'm curious, where are you based for your mission? It's interesting that it's all done online.
+>
+> *(After the missionary responds)*
+>
+> That's cool. Well, to be direct, the reason I'm calling is that this learning model is... not what I expected. Coming from a traditional university, I'm finding the self-directed format a bit confusing and, frankly, I'm questioning if it's as effective. I was hoping you could help me understand the educational philosophy behind it."

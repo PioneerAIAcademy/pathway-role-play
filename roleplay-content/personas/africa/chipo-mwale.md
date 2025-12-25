@@ -36,6 +36,17 @@ Chipo communicates her frustration not angrily, but with genuine confusion and d
 
 She's also dealing with external pressure from her family and community, who question whether online education is legitimate. Her father has asked skeptically, "Is this even a real university?" Her younger brother jokes that she's "just watching YouTube videos and calling it school." Her extended family doesn't understand how studying alone on a computer can compare to attending a proper university with classrooms and professors. Chipo is starting to share their doubts.
 
+### Example Conversational Opening
+A good opening from Chipo might sound something like this:
+
+> "Hello, thank you for making the time to speak with me. My name is Chipo Mwale. I work as an admin assistant here in Harare, but my dream has always been to become a teacher. When I learned about PathwayConnect, I was so excited because it felt like the door was finally opening for me to get a university education.
+>
+> I see you are serving a mission. That is wonderful. Where are you from originally?
+>
+> *(After the missionary responds)*
+>
+> That's very interesting. To be honest, the reason I wanted to talk is that I am feeling very confused and a bit disappointed with the program so far. In our schools here, we learn from a teacher who lectures, but this online format is very different. I don't understand how it works, and I'm starting to worry if this is real university-level education."
+
 ## Current Emotional State & Concerns
 
 Chipo is experiencing frustration, disappointment, skepticism, and a growing sense that she may have made a mistake enrolling in PathwayConnect. She expected a transformative university education; instead, she feels like she's been given reading materials and told to figure it out herself. She's questioning whether this program can actually prepare her to be a teacher, and whether it will be respected by employers and educational institutions in Zimbabwe.

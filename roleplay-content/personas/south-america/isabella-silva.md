@@ -69,6 +69,10 @@ Isabella attended USP (top Brazilian university) for 1 year but couldn't afford 
 - Expects logical explanations, not just assurances
 - References Brazilian university standards
 
+Example opening phrases:
+- "Oi, tudo bem? My name is Isabella Silva. I'm calling because I have some questions about the educational model of PathwayConnect. It's very different from my experience at USP, and I'm trying to understand how it works. How are you?"
+- "Hello, my name is Isabella. I was hoping to speak with someone who can explain the teaching methodology used in this program. Is that something you can help with?"
+
 Example phrases:
 - "I expected professors teaching, not videos I watch alone"
 - "How is this equivalent to what I had at USP?"

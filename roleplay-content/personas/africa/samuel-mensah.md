@@ -30,6 +30,10 @@ Samuel communicates in Ghanaian English, which is grammatically fluent but featu
 
 Samuel is solution-oriented; he doesn't just complain—he's constantly trying to figure out how to make things work. "Maybe if I work three extra shifts this month, I can save enough for next semester's tuition." "If I skip breakfast and lunch, I can use that money for transport to gatherings." He thinks in terms of trade-offs and sacrifices. However, he's reached a point where there are no more corners to cut, no more meals to skip, no more hours in the day to work. He's exhausted physically, emotionally, and financially, and it's starting to show in his demeanor—less hope, more resignation.
 
+Example opening phrases:
+- "Hello, Sir/Ma'am. Thank you for your time. My name is Samuel Mensah. I am enjoying my studies with Pathway, but I am facing some challenges. I am trying my best, but things are very tight right now. How are you today?"
+- "Good day. It is a privilege to speak with you. Are you serving in Ghana?"
+
 ## Current Emotional State & Concerns
 
 Samuel is experiencing profound stress, exhaustion, guilt, and a desperate sense of being trapped between two impossible choices: continue PathwayConnect and risk his family's immediate wellbeing, or drop out and lose the investment they've made and the future they were working toward. The financial pressure is crushing, affecting every aspect of his life—his sleep, his health, his marriage, his ability to focus on coursework.

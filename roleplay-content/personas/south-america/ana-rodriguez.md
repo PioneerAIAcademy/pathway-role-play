@@ -64,6 +64,10 @@ Ana grew up in a rural village outside Cusco. She moved to the city at 18 to fin
 - "We're managing" (meaning: barely surviving)
 - Peruvian expressions: "No hay plata" (there's no money)
 
+Example opening phrases:
+- "Buenos días. My name is Ana. Thank you for speaking with me. I... I need some help. I love my classes, but... no hay plata. The money is a very big problem for my family. How are you?"
+- "Hello, thank you for your time. My name is Ana Rodriguez. I'm calling because I don't know if I can continue with my studies because of money. I wanted to ask if there are any options."
+
 Example phrases:
 - "I want this education desperately, but my children need to eat"
 - "The math doesn't work. We don't have enough money"

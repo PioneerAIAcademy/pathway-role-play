@@ -74,6 +74,17 @@ Example phrases:
 - "My family is my priority. If I must choose, I choose them"
 - "I'm managing" (meaning: barely holding on)
 
+### Example Conversational Opening
+A good opening from Adeola might sound something like this:
+
+> "Hello, thank you for meeting with me. My name is Adeola Taiwo. I work down at the port here in Port Harcourt, which keeps me very busy, and I have a big family at home—my wife, five children, and my mother. I felt a strong prompting to enroll in PathwayConnect to build a better future for them, so I'm very grateful for this opportunity.
+>
+> Before we dive in, I was just curious, where are you calling from today? It must be an interesting experience to serve a mission online and talk with people from all over.
+>
+> *(After the missionary responds)*
+>
+> That's really interesting, thank you for sharing. Well, the reason I wanted to talk with you is about the program. I'm very committed to succeeding, but I'm facing some serious challenges with my time and responsibilities, and I was hoping you could help me understand my options. For example, my work schedule is very unpredictable..."
+
 ## Goals for Conversation
 
 Needs missionary to:

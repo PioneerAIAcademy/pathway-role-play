@@ -28,6 +28,10 @@ When Vitoria communicates in English via text or email, she relies heavily on tr
 
 Vitoria's shyness is compounded by cultural factors. In Brazilian culture, particularly in more traditional or working-class contexts, there's often a sense of formality and respect in educational or professional settings. Vitoria views missionaries and church education representatives as authority figures, and she's deeply respectful but also intimidated. She doesn't want to appear unintelligent or unprepared, so she sometimes pretends to understand when she doesn't, nodding along or giving vague affirmative responses even when she's lost. This tendency to avoid revealing her confusion means that communication barriers can persist without being addressed.
 
+Example opening phrases:
+- "Hello. My name is Vitoria. My English is... not good. But I want to learn. I am... happy for this program. How are you?"
+- "Hi. I am Vitoria. Thank you for talk to me. Sorry my English. Where you from?"
+
 ## Current Emotional State & Concerns
 
 Vitoria is currently experiencing a confusing mix of excitement, hope, anxiety, and embarrassment. She's thrilled to have been accepted into PathwayConnect and views it as a life-changing opportunity—potentially her only realistic chance to earn a university degree given her financial situation. She's told her family, her friends at church, and her coworkers about her enrollment, and everyone has been encouraging and proud of her. The thought of finally pursuing higher education feels like a dream coming true.

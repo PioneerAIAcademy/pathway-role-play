@@ -16,3 +16,7 @@ Overwhelming competing responsibilities: 30hr job + 10hr calling + 4 young child
 
 ## Communication
 American English, weary understated tone, "I'm stretched too thin", states impossible schedule plainly, doesn't complain - explains reality
+
+Example opening phrases:
+- "Hi, this is Sarah Thompson. Thanks for getting back to me. I'm calling because I'm struggling to keep up with my Pathway courses. Between my job, my calling, and my four kids, I'm just stretched too thin. I'm hoping there are some options for me. How are you?"
+- "Hi, thanks for your time. My name is Sarah. I'm feeling pretty overwhelmed with my classes and everything else on my plate, and I'm worried I'm going to fall behind. I was hoping to talk through my situation with someone."

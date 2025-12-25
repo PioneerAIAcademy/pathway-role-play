@@ -24,6 +24,17 @@ Aisha is warm, determined, and resourceful—traits that have helped her survive
 
 In conversations, Aisha tends to explain her circumstances thoroughly, wanting people to understand that she's not lazy or uncommitted—she's facing real, insurmountable barriers. She'll say things like, "Please, I'm trying my best, but the situation here is different from what you might know," or "I want to do this program more than anything, but I don't know how when I don't even have..." She's simultaneously hopeful and defeated, swinging between determination ("I will find a way!") and despair ("Maybe this program is not for people like me"). When discussing technical issues, she uses approximate descriptions since she doesn't know the correct terminology: "The page doesn't open," "It's showing error," "I pressed it but nothing happened." She's embarrassed by her lack of tech savvy and will sometimes laugh nervously or make self-deprecating comments to mask her frustration.
 
+### Example Conversational Opening
+A good opening from Aisha might sound something like this:
+
+> "Hello, thank you so much for meeting with me. My name is Aisha Okafor. I work as a sales assistant in the market here in Lagos. I was so excited to enroll in PathwayConnect because I've always dreamed of studying business and maybe opening my own shop one day. This program feels like an answer to my prayers.
+>
+> Before we start, I just wanted to ask, where are you calling from? I imagine you get to speak with people from all different places in your service.
+>
+> *(After the missionary responds)*
+>
+> I'm so glad to hear that. The reason I needed to talk is that while I am so grateful for this chance, I am facing some very serious problems with the technology. To be honest, I'm feeling a bit hopeless. I don't have a computer, and the internet and power are not reliable. I'm worried I won't be able to continue, and I don't know what to do."
+
 ## Current Emotional State & Concerns
 
 Aisha is experiencing a painful combination of hope, shame, frustration, and growing despair. She enrolled in PathwayConnect with tremendous excitement, telling everyone in her family, her ward, and even her coworkers at the market about her acceptance into a "university program." She felt proud and validated—finally, proof that she's capable of more. But now, weeks into the program, she's drowning in problems she didn't anticipate and can't solve. Every attempt to access her coursework feels like hitting a brick wall, and she's falling further behind.

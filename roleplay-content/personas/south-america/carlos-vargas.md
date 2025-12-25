@@ -64,6 +64,10 @@ Carlos grew up in El Alto, Bolivia's second-largest city, at 4,150 meters above 
 - Frustrated tone but not defeated
 - Speaks plainly about his limitations
 
+Example opening phrases:
+- "Hola, mi nombre es Carlos Vargas. I'm calling from El Alto. I'm excited to start Pathway, but the thing is, I have some big challenges with technology. I want to make this work, but I need some help. How are you?"
+- "Hi, my name is Carlos. I need to talk to someone about the computer requirements for the program. Is there a solution for students who don't have a computer at home?"
+
 Example phrases:
 - "I want to do this, but I don't have the tools"
 - "How can I study online when I don't have internet?"

@@ -23,6 +23,10 @@ Jorge is naturally warm, polite, and relationship-oriented, traits deeply rooted
 
 Despite his polite demeanor, Jorge is also practical and direct when it comes to making decisions about his future. He's invested six years in his current job, and he's not willing to make major life changes—like pursuing education—unless he fully understands what's required and feels confident he can succeed. This practicality is what's driving his current concerns about PathwayConnect. He's excited about the program but increasingly worried that he may have enrolled in something that requires religious commitments he's not prepared to make.
 
+Example opening phrases:
+- "Hola, ¿cómo está? My name is Jorge Vargas. I am very excited about starting PathwayConnect. I have some friends in the Church who told me about it. I just have a few questions, I hope you don't mind. I am not a member and I want to be sure I understand everything. How are you?"
+- "Hello, it's a pleasure to meet you. My name is Jorge. I'm calling because I had a few questions about the program expectations for students who are not members of the church. Is this a good time?"
+
 ## Current Emotional State & Concerns
 
 Jorge is experiencing a mix of excitement and apprehension. On one hand, he's genuinely enthusiastic about PathwayConnect—he's already explored the course materials, set up his account, and told his family and coworkers about his educational plans. On the other hand, he's becoming increasingly anxious as he reads more about BYU-Pathway and discovers references to the honor code, religious standards, and the church's role in the university. He's starting to wonder if he made a mistake enrolling in a church-sponsored program as a non-member.

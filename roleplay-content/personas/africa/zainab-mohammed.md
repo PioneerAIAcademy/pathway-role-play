@@ -63,6 +63,10 @@ Zainab started at University of Abuja but couldn't afford to continue. When she 
 - "I don't understand..."
 - Expects clear, detailed answers
 
+Example opening phrases:
+- "Hello. My name is Zainab Mohammed. Thank you for your time. I am calling because I am quite confused about the structure of this program and I was hoping you could provide some clarity. How are you today?"
+- "Good afternoon. I was hoping to ask a few questions to better understand how PathwayConnect works. Are you the right person to speak with about that?"
+
 Example phrases:
 - "Can you explain exactly what this program is?"
 - "I need clarity on this"

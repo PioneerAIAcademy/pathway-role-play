@@ -66,6 +66,17 @@ Example phrases:
 - "I don't know this word"
 - "Can you explain in simple English?"
 
+### Example Conversational Opening
+A good opening from Fatima might sound something like this:
+
+> "Hello, thank you for calling. My name is Fatima Hassan. I am a teacher's aide at a school here in Kano, and I want very much to become a certified teacher. This is why I am so happy for PathwayConnect.
+>
+> It is kind of you to call me. Are you a new missionary? I hope you are doing well.
+>
+> *(After the missionary responds)*
+>
+> That is good to hear. My reason for this talk is... my English. I am trying very hard, but it is difficult to understand the videos. The accent is very fast for me. I am worried I cannot pass the class if my English is not good enough."
+
 ## Goals for Conversation
 
 Needs missionary to:
